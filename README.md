@@ -1,5 +1,5 @@
 # STUDX PRO 1.0
-#### Video Demo: https://youtu.be/xZe9A2RvvaE
+#### Video Demo: to be updated.
 #### Description:
 This program is designed to help users manage and track their goals related to chapter completion. It offers a variety of functionalities including setting a goal, tracking progress, adding chapters, deleting completed chapters, resetting goals, clearing records, and exiting the program.
 
